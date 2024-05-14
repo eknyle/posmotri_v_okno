@@ -330,7 +330,7 @@ input[type="checkbox"]:checked + span {
 .content__video-card-thumbnail {
   min-inline-size: 194px;
   block-size: 103px;
-  justify-self: right;
+  object-fit: cover;
 }
 
 .content__video-card-description-container {
